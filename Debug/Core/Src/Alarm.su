@@ -1,0 +1,6 @@
+../Core/Src/Alarm.c:27:6:Set_hour_1	8	static
+../Core/Src/Alarm.c:56:6:Set_hour_2	8	static
+../Core/Src/Alarm.c:74:6:Set_minute_1	8	static
+../Core/Src/Alarm.c:102:6:Set_minute_2	8	static
+../Core/Src/Alarm.c:121:6:Check_alarm	8	static
+../Core/Src/Alarm.c:138:6:See_alarm	8	static

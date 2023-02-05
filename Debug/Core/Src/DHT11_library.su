@@ -1,0 +1,8 @@
+../Core/Src/DHT11_library.c:22:6:Display_Humidity	48	static
+../Core/Src/DHT11_library.c:30:6:Display_Temperature	40	static
+../Core/Src/DHT11_library.c:41:6:Set_pin_input	32	static
+../Core/Src/DHT11_library.c:51:6:Set_pin_output	32	static
+../Core/Src/DHT11_library.c:61:6:MCU_Signal	8	static
+../Core/Src/DHT11_library.c:71:9:Check_reponse	16	static
+../Core/Src/DHT11_library.c:88:9:Check_bit	16	static
+../Core/Src/DHT11_library.c:107:6:Get_data_DHT11	8	static

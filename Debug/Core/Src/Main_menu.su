@@ -1,0 +1,11 @@
+../Core/Src/Main_menu.c:26:6:Print_Temp_C	8	static
+../Core/Src/Main_menu.c:33:6:Print_Percentage	8	static
+../Core/Src/Main_menu.c:49:6:Print_Sun	8	static
+../Core/Src/Main_menu.c:74:6:Print_Cloud	8	static
+../Core/Src/Main_menu.c:96:6:Main_menu_Init	8	static
+../Core/Src/Main_menu.c:105:6:Main_menu	8	static
+../Core/Src/Main_menu.c:127:6:Main_menu_2	8	static
+../Core/Src/Main_menu.c:154:6:Main_begin_2	8	static
+../Core/Src/Main_menu.c:164:6:Menu_set_Time_Alarm	8	static
+../Core/Src/Main_menu.c:191:6:Menu_1	8	static
+../Core/Src/Main_menu.c:201:6:Inside	8	static

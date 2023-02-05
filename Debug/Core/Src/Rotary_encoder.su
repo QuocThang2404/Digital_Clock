@@ -1,0 +1,5 @@
+../Core/Src/Rotary_encoder.c:25:6:Rotary_encoder_Handle	8	static
+../Core/Src/Rotary_encoder.c:56:6:Button	16	static
+../Core/Src/Rotary_encoder.c:84:6:Rotary_Scroll	8	static
+../Core/Src/Rotary_encoder.c:111:6:Rotary_Hour	8	static
+../Core/Src/Rotary_encoder.c:145:6:Rotary_Min	8	static
